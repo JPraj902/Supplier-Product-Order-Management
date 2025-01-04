@@ -107,9 +107,6 @@ git push origin feature-name
 ```
 7. **Submit a Pull Request**: Open a pull request on the original repository.
 
-## 📄 License
-This project is licensed under the MIT License. See the LICENSE file for more information.
-
 ## 📞 Contact
 If you have any questions, suggestions, or issues, feel free to open an issue in this repository or contact the project maintainer via GitHub.
 
